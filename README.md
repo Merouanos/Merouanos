@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Portfolio-merouanos.com-111111?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/merouane-belmokhtar/">
+<a href="https://www.linkedin.com/in/merouane-belmokhtar-a083a2338/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
