@@ -7,7 +7,7 @@
 <p align="center">
   I build and ship products with TypeScript, React, and Node.js  end to end.
 </p>
-## Tech I use
+##Tech I use
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="45" alt="TypeScript" title="TypeScript"/>
