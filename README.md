@@ -12,7 +12,7 @@
   <a href="https://merouanos.com">
     <img src="https://img.shields.io/badge/Portfolio-merouanos.com-111111?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://www.linkedin.com/in/merouane-belmokhtar/">
+  <a href="https://www.linkedin.com/in/merouane-belmokhtar-a083a2338/">
     <img src="https://img.shields.io/badge/LinkedIn-Merouane%20Belmokhtar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.curseforge.com/minecraft-bedrock/addons/climatecraft">
